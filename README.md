@@ -16,4 +16,7 @@ This project is a  basic Flutter application.
 ## add a local storage using hive
 ## add/edit/delete a task
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0358e894dd8ce1adc09f8a82eda1abf3799e5457
