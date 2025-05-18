@@ -10,10 +10,10 @@ Built with clean architecture principles to keep the codebase organized, scalabl
 This project is a  basic Flutter application.
 
 ## ⭐Featured:
-1-*Clean Architecture*
-2-*a simple sing-in /sign-up form with flutter*
-3-*add a validation to the form*
-4-*add a local storage using hive*
-5-*add/edit/delete a task*
+1-*Clean Architecture*  
+2-*a simple sing-in /sign-up form with flutter*  
+3-*add a validation to the form*  
+4-*add a local storage using hive*  
+5-*add/edit/delete a task*  
 
 
